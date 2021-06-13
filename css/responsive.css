@@ -25,6 +25,10 @@
     .site-main > .services-area .services{
         width: 13rem;
     }
+    .footer-area
+    {
+        visibility: hidden;
+    }
 
 }
 
@@ -62,6 +66,10 @@
         width: 20rem;
         margin: 5%;
     }
+     .footer-area
+    {
+        visibility: hidden;
+    }
 }
 
 
@@ -81,6 +89,5 @@
     .site-main .about-area{
         padding: 3% 4%;
     }
-
 
 }

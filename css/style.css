@@ -12,6 +12,22 @@
 
 /* start navigation */ 
 
+.Contact{
+height: 600px;
+	width: 100%;
+
+}
+.Projects{
+height: 600px;
+	width: 100%;
+
+}
+
+.About{
+	height: 1000px;
+	width: 100%;
+}
+
 .header_area .main-menu .navbar .navbar-brand{
     padding: 0 2rem 0 5rem;
 }
@@ -322,6 +338,7 @@
 
 footer.footer-area{
     padding: 5rem 0;
+    
     }
 
 footer.footer-area .social h5{
